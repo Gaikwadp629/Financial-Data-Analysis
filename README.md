@@ -11,12 +11,12 @@ Goal of this notebook is to classify various conditions of Diabetes.
  **Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
 
 ## Appendix
-Exploratory Data Analysis
-Classification Models Used: 
-LogisticRegression, 
-DecisionTreeClassifier, 
-RandomForestClassifier,
-XG Boost
+* Exploratory Data Analysis
+* Classification Models Used: 
+* LogisticRegression, 
+* DecisionTreeClassifier, 
+* RandomForestClassifier,
+* XG Boost
 
 
 ## Let's Connect ©
