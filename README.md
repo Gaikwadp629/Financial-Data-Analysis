@@ -6,9 +6,9 @@ Goal of this notebook is to classify various conditions of Diabetes.
 
 ## Tech Stack
 
- Language:* python
+ **Language:** python
 
- Libraries:* numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
+ **Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
 
 ## Appendix
 Exploratory Data Analysis
